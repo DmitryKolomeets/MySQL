@@ -1,0 +1,13 @@
+
+
+
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (2, 'Black', 200, 'Gasoline', 'Hatchback', 105, 1);
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (82, 'Green', 220, 'Diesel', 'Sedan', 190, 2);
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (5, 'White', 250, 'Hybrid', 'Sedan', 181, 3);
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (9, 'Black', 250, 'Hybrid', 'AllRoad', 205, 4);
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (102, 'Yellow', 340, 'Gasoline', 'Sport', 420, 5);
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (54, 'Blue', 205, 'Diesel', 'Sedan', 165, 6);
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (35, 'Red', 120, 'Electric', 'Hatchback', 85, 7);
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (8, 'Red', 180, 'Gasoline', 'Sedan', 98, 8);
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (50, 'Black', 260, 'Diesel', 'AllRoad', 210, 9);
+INSERT INTO characteristics (ID, Color, Speed, EngineType, Cabin, HP, Auto_ID) VALUES (44, 'Brown', 240, 'Hybrid', 'AllRoad', 1168, 10);
